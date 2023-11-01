@@ -17,3 +17,4 @@ def twoSum(nums, target):
     return[]
 
 print(twoSum(nums, target))
+# sample
