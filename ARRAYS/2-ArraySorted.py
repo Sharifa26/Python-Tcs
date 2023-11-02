@@ -17,7 +17,6 @@ def arraySortedOrNot(arr, N):
     
 print(arraySortedOrNot(arr, N))
 
-# desr
 
 # sample
 # 2
