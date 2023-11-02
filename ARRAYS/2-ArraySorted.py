@@ -16,3 +16,7 @@ def arraySortedOrNot(arr, N):
         return False
     
 print(arraySortedOrNot(arr, N))
+
+
+
+# sample
