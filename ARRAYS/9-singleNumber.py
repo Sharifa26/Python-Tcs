@@ -1,3 +1,4 @@
+# https://leetcode.com/problems/single-number/
 nums = [4,1,2,1,2]
 
 def single(nums):
