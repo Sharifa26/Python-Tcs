@@ -20,3 +20,4 @@ print(arraySortedOrNot(arr, N))
 # desr
 
 # sample
+# 2

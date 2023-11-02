@@ -18,3 +18,4 @@ def twoSum(nums, target):
 
 print(twoSum(nums, target))
 # sample
+# sample2

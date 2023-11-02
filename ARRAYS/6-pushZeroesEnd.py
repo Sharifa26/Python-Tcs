@@ -15,3 +15,5 @@ def pushZerosToEnd(arr, n):
 
 
 print(pushZerosToEnd(arr, n))
+
+# 4
